@@ -7,6 +7,10 @@ Dự án này là một hệ thống web nội bộ (chạy trên XAMPP) giúp g
 - iSpring Suite (để xuất bài giảng trắc nghiệm HTML5/EXE).
 - Trình quản lý hệ thống này nằm trong thư mục `c:\xampp\htdocs\ic3-class`.
 
+## 📦 Tải Phần Mềm Liên Quan
+Các phần mềm bổ trợ cần thiết (XAMPP, iSpring) hoặc các tool khác có thể được tải xuống từ link sau:
+- [Thư mục phần mềm cài đặt (Google Drive)](https://drive.google.com/drive/u/4/folders/1r4QKR8xHMbaaOMF6-VfbuJT00fT6m2zH)
+
 ---
 
 ## 🚀 Hướng Dẫn Cài Đặt Ban Đầu
